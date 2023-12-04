@@ -1,0 +1,46 @@
+[
+  {
+    "_id": {
+      "$oid": "654c98337709b76c24fc6a63"
+    },
+    "firstName": "Muh.",
+    "lastName": "Faza",
+    "email": "faza@gmail.com",
+    "password": "pass123",
+    "createdAt": "2023-11-05T10:26:13.900Z",
+    "updatedAt": "2023-11-05T10:26:13.900Z"
+  },
+  {
+    "_id": {
+      "$oid": "654c98337709b76c24fc6a64"
+    },
+    "firstName": "Gery",
+    "lastName": "Juniarto",
+    "email": "gery@gmail.com",
+    "password": "pass123",
+    "createdAt": "2023-11-05T10:26:14.041Z",
+    "updatedAt": "2023-11-05T10:26:14.041Z"
+  },
+  {
+    "_id": {
+      "$oid": "654c98337709b76c24fc6a65"
+    },
+    "firstName": "Raihan",
+    "lastName": "Bagas",
+    "email": "bagas@gmail.com",
+    "password": "pass123",
+    "createdAt": "2023-11-05T10:47:21.748Z",
+    "updatedAt": "2023-11-05T10:47:21.748Z"
+  },
+  {
+    "_id": {
+      "$oid": "654c98337709b76c24fc6a66"
+    },
+    "firstName": "Muh.",
+    "lastName": "Daffa",
+    "email": "dapo@gmail.com",
+    "password": "pass123",
+    "createdAt": "2023-11-06T04:24:44.222Z",
+    "updatedAt": "2023-11-06T04:24:44.222Z"
+  }
+]
