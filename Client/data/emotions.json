@@ -1,0 +1,53 @@
+{
+  "1": {
+    "Depressed": false,
+    "Hurt": false,
+    "Lonely": false,
+    "Embarassed": false,
+    "Disappointed": false,
+    "Abandoned": false,
+    "Empty": false,
+    "Isolated": false
+  },
+  "2": {
+    "Mad": false,
+    "Let Down": false,
+    "Annoyed": false,
+    "Jealous": false,
+    "Disrespected": false,
+    "Bitter": false,
+    "Aggressive": false,
+    "Frustated": false
+  },
+  "3": {
+    "Bored": false,
+    "Busy": false,
+    "Stressed": false,
+    "Tired": false,
+    "Overwhelmed": false,
+    "Exhausted": false,
+    "Drained": false,
+    "Burnt Out": false,
+    "Numb": false
+  },
+  "4": {
+    "Peaceful": false,
+    "Relaxed": false,
+    "Calm": false,
+    "Content": false,
+    "Tranquil": false,
+    "Serene": false,
+    "At Ease": false,
+    "Easy": false
+  },
+  "5": {
+    "Happy": false,
+    "Excited": false,
+    "Proud": false,
+    "Loved": false,
+    "Hopeful": false,
+    "Optimistic": false,
+    "Confident": false,
+    "Motivated": false
+  }
+}
